@@ -1,4 +1,5 @@
-# -Karpov.Courses
+# -Python-projects
+
 
 Project 1. E-commerce:
 1. Сколько у нас пользователей, которые совершили покупку только один раз?
